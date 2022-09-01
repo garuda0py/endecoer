@@ -3,6 +3,7 @@ with this you can encode a message and decode the encoded message
 
 installing procedure 
 
+open your termux or terminal 
 
 
 
@@ -18,7 +19,4 @@ $ cd endecoer
 
 run the python file 
 
-$ python3 maincode.py
-
-
-
+$ python3 encoder.py

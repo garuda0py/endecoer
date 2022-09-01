@@ -19,4 +19,4 @@ $ cd endecoer
 
 run the python file 
 
-$ python3 encoder.py
+$ python3 endecoer.py
